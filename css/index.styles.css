@@ -1,0 +1,13 @@
+body{
+    background-color: #e7e7d8;
+}
+
+.row {
+    background-color: #121414
+}
+footer {
+    color:rgb(90, 90, 90);
+    text-align: center;
+    background: gray;
+    height: 115px
+}
