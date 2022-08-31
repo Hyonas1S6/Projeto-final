@@ -53,3 +53,8 @@ h1 {
     color: white;
     font-size: 35px
 }
+
+a {
+    color: black;
+    text-decoration: None
+}
